@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chauhansachin13
-- 👀 I’m interested in DSA and its corresponding DSA.
-- 🌱 I’m currently learning DSA and JAVA.
+- 👀 I’m interested in DSA.
+- 🌱 I’m currently learning JAVA and DSA.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
