@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chauhansachin13.
 - 👀 I’m interested in coding and software engineering.
-- 🌱 I have many certifications in DaSA and Java programming.
+- 🌱 I have many certifications in DSA and Java programming.
 
 
 <!---
