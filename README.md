@@ -2,7 +2,7 @@
 # 👋 Hi there! I'm Sachin Chauhan (@chauhansachin13)
 
 ## 🚀 About Me
-- 🌱 Final year B.Tech student in Computer Science and Engineering at NIT Srinagar.
+- 🌱 Final-year B.Tech student pursuing Computer Science and Engineering at NIT Srinagar.
 - 👀 Passionate about coding, software engineering, and creating interactive applications.
 - 📚 Skilled in Java programming and Data Structures & Algorithms (DSA).
 - 🏆 Holder of multiple certifications in DSA and Java.
