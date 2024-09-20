@@ -27,11 +27,3 @@
 
 Feel free to check out my repositories and reach out if you want to collaborate!
 ```
-
-You can modify any section or add more details as you see fit!
-
-
-<!---
-chauhansachin13/chauhansachin13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
